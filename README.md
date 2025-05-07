@@ -1,2 +1,2 @@
 # Counter
-My first JS project
+Counter using HTML, CSS and Javascript
